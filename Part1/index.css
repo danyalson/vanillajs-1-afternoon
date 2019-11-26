@@ -34,3 +34,12 @@
     text-align: center;
     font-size: 2em;
 }
+.reset-button {
+    background: blue;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: .5rem 2rem;
+    margin: 0 2rem;
+    cursor: pointer;
+    justify-content: center;
+  }
